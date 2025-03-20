@@ -1,13 +1,13 @@
 ### Hello and welcome 👋
 
-#### 💡 A little about me:
+#### 💡 About me:
 🔹 Recent graduate from Northcoders Data Engineering in Python Bootcamp <br />
 🔹 Passionate about building scalable data solutions <br />
 🔹 Hands-on experience with data engineering, ETL pipelines, and cloud technologies <br />
 🔹 Eager to transform data into meaningful insights <br />
 
 #### 💡 What I’ve worked on:
-✅ Developed ETL pipelines using AWS to process and transform data <br />
+✅ Developed [ETL pipelines](https://github.com/nicolas-tolksdorf/tote-bag-data-transformation) using AWS to process and transform data <br />
 ✅ Built and maintained a data warehouses, gaining hands-on experience with modern data ecosystems <br />
 ✅ Worked on a data platform for an education company, applying analytical thinking and engineering expertise <br />
 
